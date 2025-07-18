@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/feudal911/workflows/blob/output/snake.svg)
+![Snake animation](https://github.com/feudal911/workflow/blob/main/snake
